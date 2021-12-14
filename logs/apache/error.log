@@ -1,0 +1,2 @@
+[Tue Dec 14 10:08:37.859604 2021] [mpm_event:notice] [pid 1492:tid 8608038400] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Dec 14 10:08:37.863266 2021] [core:notice] [pid 1492:tid 8608038400] AH00094: Command line: '/Users/ar/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/ar/Library/Application Support/Local/run/avRVrzzgq/conf/apache/apache2.conf'
