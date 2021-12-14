@@ -1,1 +1,5 @@
-<h1>This is from front page</h1>
+<?php get_header(); ?>
+
+
+
+<?php get_footer(); ?>
